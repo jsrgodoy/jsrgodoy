@@ -4,7 +4,7 @@
 #### Hi there! 👋
  #### Welcome! 👋
 
-## You can contact me by e-mail bellow 
+ ###✉️ You can contact me by e-mail bellow 
 
 <div> 
   <a href = "mailto:jsrgodoya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
