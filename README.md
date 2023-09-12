@@ -4,7 +4,7 @@
 #### Hi there! 👋
  #### Welcome! 👋
 
- #### You can contact me by <a href = "mailto:jsrgodoy@gmail.com">e-mail</a> 
+ You can contact me by <a href = "mailto:jsrgodoy@gmail.com">e-mail</a> 
  or links there 👈...
 
 ## GitHub Stats
