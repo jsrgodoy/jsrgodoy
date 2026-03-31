@@ -25,11 +25,4 @@
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsrgodoy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsrgodoy&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F618D&height=120&section=footer"/>
